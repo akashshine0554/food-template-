@@ -1,0 +1,236 @@
+html,
+body {
+    height: 100%;
+    width: 100%;
+    margin: 0px;
+}
+
+.navbar {
+    position: sticky;
+}
+
+.navcontainer-fluidbar {
+    position: fixed;
+}
+
+
+
+#foodimg {
+    height: 40%;
+    width: 10%;
+}
+
+
+
+
+#navbarNavDropdown {
+    padding-left: 900px;
+}
+
+
+a:hover {
+    background-color: lightgray;
+    font-size: 15px;
+}
+
+
+#backimg1 {
+    background-image: url("img1.jpg");
+    height: 70%;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    text-align: center;
+    padding-top: 200px;
+    opacity: 85%;
+}
+
+
+#cook {
+    float: left;
+    height: 50%;
+    width: 50%;
+}
+
+#cookimg {
+    height: 50%;
+    width: 50%;
+    margin: 40px;
+    box-shadow: 15px 10px rgb(205, 209, 210);
+
+}
+
+#story {
+    text-align: center;
+    margin: 50px;
+}
+
+
+
+#bgimg1 {
+    background-image: url('bgimg1.jpg');
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 50px;
+    text-align: center;
+    color: white;
+    padding-top: 200px;
+    background-attachment: fixed;
+}
+
+#menu {
+    text-align: center;
+}
+
+
+
+div.gallery {
+    border: 1px solid #ccc;
+}
+
+div.gallery:hover {
+    border: 1px solid #777;
+}
+
+div.gallery img {
+    width: 100%;
+    height: 300px;
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.responsive {
+    padding: 0 6px;
+    float: left;
+    width: 24.99999%;
+}
+
+
+.reviews {
+    text-align: center;
+
+}
+
+
+.akashimg {
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    border: 5px solid lightblue;
+}
+
+#contact {
+    width: 100%;
+    height: 100px;
+    background-color: rgb(237, 211, 144);
+    text-align: center;
+
+
+}
+
+#contact1 {
+    float: left;
+    height: 100%;
+    width: 33%;
+}
+
+#contact2 {
+    float: left;
+    height: 100%;
+    width: 33%;
+}
+
+#contact3 {
+    float: left;
+    height: 100%;
+    width: 33%;
+}
+
+.cimg {
+    height: 70px;
+    width: 70px;
+    margin: 20px;
+
+}
+
+
+.heading {
+    vertical-align: text-top;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.footer1 {
+    background-color: rgb(37, 34, 34);
+    width: 100%;
+    height: 300px;
+    color: white;
+    text-align: center;
+    padding: 40px;
+
+}
+
+#footera1 {
+    float: left;
+    width: 25%;
+    height: 100%;
+
+}
+
+
+#footera2 {
+    float: left;
+    width: 25%;
+    height: 100%;
+}
+
+#footera3 {
+    float: left;
+    width: 25%;
+    height: 100%;
+}
+
+
+#footera4 {
+    float: left;
+    width: 25%;
+    height: 100%;
+}
+
+
+.footer2 {
+    background-color: black;
+    width: 100%;
+    height: 100px;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    padding-top: 25px;
+}
+
+hr {
+    width: 300px;
+
+    text-align: center;
+}
+
+
+.form-floating {
+    width: 70%;
+    height: 10px;
+    text-align: center;
+    margin-left: 45px;
+}
+
